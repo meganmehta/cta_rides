@@ -10,7 +10,7 @@ git clone https://github.com/meganmehta/cta_rides.git
 ```
 Along with cloning this repo, make sure to download [R](https://www.r-project.org/ ) (v 4.1.2) and [R Studio](https://www.rstudio.com/products/rstudio/download/ )(v 2021.09).
 
-Once you have R and R Studio downloaded, open this project file in R Studio. You can do this by setting the working directory, as shown below: 
+Once you have R and R Studio downloaded, open this project file in R Studio. You can do this by setting the working directory: Session -> Set Working Directory -> Choose Directory
 ![Session -> Set Working Directory -> Choose Directory](https://github.com/meganmehta/cta_rides/blob/main/documentation1.jpg)
 
 After the working directory is set, open the app.r file within R Studio. This file contians all of the code in this project. 
