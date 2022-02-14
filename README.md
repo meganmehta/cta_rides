@@ -17,7 +17,7 @@ After the working directory is set, open the app.r file within R Studio. This fi
 Files with extension .tsv are the data files used to create these visualizations and are from [this](https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f) dataset from the Chicago Data Portal. 
 
 Before running this application, make sure that all necessary packages/libraries are downloaded. To check what libraries are currently added, type the command
-`installed.packages()` in the R Studio Console. If some packages are missing, use 'install.packages("package-name-here")' to install the remaining ones necessary. 
+`installed.packages()` in the R Studio Console. If some packages are missing, use `install.packages("package-name-here")` to install the remaining ones necessary. 
 All of the needed libraries are listed at the top of the app.R file. 
 
 After that, you should be good to run the project. Click the 'Run App' button on the right. 
