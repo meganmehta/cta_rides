@@ -23,4 +23,6 @@ All of the needed libraries are listed at the top of the app.R file.
 After that, you should be good to run the project. Click the 'Run App' button on the right. 
 ![](https://github.com/meganmehta/cta_rides/blob/main/documentation2.jpg). 
 
-An additional window will pop up with the visualization and you're all set! 
+An additional window will pop up with the visualization and you're all set. 
+
+[Here](https://meganmehta.shinyapps.io/424_project_1/) is the link to my deployed version! 
