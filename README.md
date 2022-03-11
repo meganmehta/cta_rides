@@ -25,4 +25,5 @@ After that, you should be good to run the project. Click the 'Run App' button on
 
 An additional window will pop up with the visualization and you're all set. 
 
-[Here](https://meganmehta.shinyapps.io/424_project_1/) is the link to my deployed version! 
+[Here](https://meganmehta.shinyapps.io/424_project_1/) is the link to my deployed version! If you'd like to read more about the project details, check out
+the documentation [here](https://mmehta25.people.uic.edu/project1.html).
